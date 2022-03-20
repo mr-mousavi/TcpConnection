@@ -1,0 +1,4 @@
+#define connection_VERSION_MAJOR "@connection_VERSION_MAJOR@"
+#define connection_VERSION_MINOR "@connection_VERSION_MINOR@"
+#define connection_VERSION_PATCH "@connection_VERSION_PATCH@"
+
